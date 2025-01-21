@@ -1,0 +1,11 @@
+Test ID,Test Case Description,Expected Result,Actual Result,Status,Remarks
+TST-001,Homepage Load Test,Homepage should load within 2 seconds,Homepage loaded within 2 seconds,Passed,Displayed Properly
+TST-002,Car Display Test,All cars should be displayed correctly on the homepage,All cars displayed correctly,Passed,No Issues found
+TST-003,Car Details Test,Car details should display upon selection,Car details displayed correctly,Passed,Showing Correctly
+TST-004,Checkout Page Test,Checkout process should complete without errors,Checkout completed successfully,Passed,Successfully
+TST-005,API Integration Test,API should fetch and display data correctly,API fetched and displayed data as expected,Passed,Working Properly
+TST-006,Navigation Test,All navigation links should be functional,All navigation links work correctly,Passed,Working Properly
+TST-007,Security Test,All API calls should be secure and use HTTPS,All API calls are secure and use HTTPS,Passed,Working Properly
+TST-008,Image Loading Test,All car images should load correctly,All car images loaded without issues,Passed,Working Properly
+TST-009,Accessibility Test,Site should meet accessibility standards,Site meets all accessibility standards,Passed,Working Properly
+TST-010,Responsiveness Test,Site should adjust properly on various devices,Site adjusted properly on all tested devices,Passed,Displayed Properly
